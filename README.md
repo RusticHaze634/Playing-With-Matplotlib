@@ -33,3 +33,12 @@ a little playtime with plots
 ## Plotting Time Series Data
 
 - Line Plot
+
+
+### From Matplotlib_practice 2
+## Grouped bar chart with labels
+
+- 
+## Bar chart with gradients
+
+- 
