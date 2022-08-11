@@ -41,4 +41,8 @@ a little playtime with plots
 - 
 ## Bar chart with gradients
 
+-
+
+## Plotting in 3D 
+
 - 
